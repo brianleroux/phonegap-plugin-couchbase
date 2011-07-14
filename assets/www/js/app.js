@@ -1,1 +1,7 @@
-document.addEventListener('deviceready', function(){ alert('hello vanilla') }, true);
+document.addEventListener('deviceready', function(){ 
+// -------------------------------------------------
+    
+    alert('hello vanilla') 
+
+// -----    
+}, true)
